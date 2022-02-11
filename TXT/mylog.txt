@@ -5,3 +5,4 @@ ZCZC W00 120 L01 SCELE/Discord related
 ZCZC W00 60 L01 SCELE/Discord related
 ZCZC W00 30 L03 GitHub related
 ZCZC W00 120 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W00 30 L10 Assignment #00
