@@ -10,3 +10,4 @@ ZCZC W01 120 L02 ZOOM meetings related
 ZCZC W01 60 L09 Assignment in General
 ZCZC W01 60 L02 ZOOM meetings related
 ZCZC W01 45 L01 SCELE/Discord related
+ZCZC W01 60 L09 Assignment in General
