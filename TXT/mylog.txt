@@ -1,8 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 
-ZCZC W00 120 L01 SCELE/Discord related
+ZCZC W00 120 L02 ZOOM meetings related
 ZCZC W00 60 L01 SCELE/Discord related
 ZCZC W00 30 L03 GitHub related
 ZCZC W00 120 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 30 L10 Assignment #00
+ZCZC W01 120 L02 ZOOM meetings related
+ZCZC W01 60 L09 Assignment in General
+ZCZC W01 60 L02 ZOOM meetings related
+ZCZC W01 45 L01 SCELE/Discord related
