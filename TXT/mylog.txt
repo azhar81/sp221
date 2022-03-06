@@ -20,3 +20,7 @@ ZCZC W02 30 L06 References/Books/Documents/GSGS related
 ZCZC W02 30 L12 Assignment #02
 ZCZC W02 30 L06 References/Books/Documents/GSGS related
 ZCZC W02 240 L13 Assignment #03
+ZCZC W03 120 L02 ZOOM meetings related
+ZCZC W03 30 L11 Assignment #01
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 10 L13 Assignment #03
