@@ -31,3 +31,5 @@ ZCZC W04 45 L06 References/Books/Documents/GSGS related
 ZCZC W04 15 L12 Assignment #02
 ZCZC W04 120 L26 C-language
 ZCZC W05 120 L02 ZOOM meetings related
+ZCZC W05 20 L05 Quiz related
+ZCZC W05 240 L09 Assignment in General
