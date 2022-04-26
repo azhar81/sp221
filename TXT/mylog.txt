@@ -35,3 +35,9 @@ ZCZC W05 20 L05 Quiz related
 ZCZC W05 240 L09 Assignment in General
 ZCZC W06 120 L05 Quiz related
 ZCZC W06 120 L05 Quiz related
+ZCZC W07 120 L05 Quiz related
+ZCZC W07 120 L05 Quiz related
+ZCZC W08 120 L05 Quiz related
+ZCZC W08 120 L05 Quiz related
+ZCZC W08 120 L09 Assignment in General
+ZCZC W08 60 L25 Scripting
