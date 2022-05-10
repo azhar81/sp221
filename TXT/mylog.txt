@@ -41,3 +41,8 @@ ZCZC W08 120 L05 Quiz related
 ZCZC W08 120 L05 Quiz related
 ZCZC W08 120 L09 Assignment in General
 ZCZC W08 60 L25 Scripting
+ZCZC W05 120 L02 ZOOM meetings related
+ZCZC W09 120 L05 Quiz related
+ZCZC W09 120 L05 Quiz related
+ZCZC W09 120 L09 Assignment in General
+ZCZC W09 60 L25 Scripting
